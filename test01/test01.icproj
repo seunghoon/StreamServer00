@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ks_c_5601-1987"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="test01"
+	ProjectGUID="{021CAEE7-EBE7-4F3B-B8E2-FB44693785B6}"
+	VCNestedProjectGUID="{7CBD2F15-42BF-40C9-8A72-F05421F8B9A7}"
+	VCNestedProjectFileName="test01.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				GlobalOptimizations="true"
+				EnableEnhancedInstructionSet="1000"
+				Parallelization="true"
+				UseIntelOptimizedHeaders="false"/>
+		</Configuration>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				GlobalOptimizations="true"
+				EnableEnhancedInstructionSet="1000"
+				Parallelization="true"
+				UseIntelOptimizedHeaders="false"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
