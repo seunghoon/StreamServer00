@@ -9,7 +9,7 @@ test00Dlg.cpp line 42: \
 \
 static const GUID CLSID_DP = {0x3EFB6510,0xAE3B,0x4465,0xA5,0x1E,0x5E,0xC9,0x7E,0x55,0xA0,0xAC};\
 \
-Replace with class id of your own video encoder DMO.
+Replace it with the class id of your video encoder DMO.
 
 ## Executables
 - test00.exe
